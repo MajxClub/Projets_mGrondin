@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/Solo-nazz.mp3-f00cb4a947f9c7f33e1816ddb6bd31ef.mp3str"
+
+[deps]
+
+source_file="res://sons/Solo-nazz.mp3"
+dest_files=[ "res://.import/Solo-nazz.mp3-f00cb4a947f9c7f33e1816ddb6bd31ef.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
